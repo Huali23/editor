@@ -1,0 +1,16 @@
+$360Section
+$RECYCLE.BIN
+$WINDOWS.~BT
+360SANDBOX
+BJCAAPP
+BJCAROOT
+Boot
+Documents and Settings
+found.000
+PerfLogs
+Program Files
+Program Files (x86)
+ProgramData
+System Volume Information
+Users
+Windows
